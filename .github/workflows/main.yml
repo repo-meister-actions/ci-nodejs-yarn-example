@@ -9,4 +9,4 @@ on:
 
 jobs:
   ci:
-    uses: repo-meister-actions/java-maven/.github/workflows/ci.yml@main
+    uses: repo-meister-actions/nodejs-yarn/.github/workflows/ci.yml@main

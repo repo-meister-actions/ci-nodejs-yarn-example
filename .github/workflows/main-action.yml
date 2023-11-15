@@ -11,4 +11,4 @@ jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
-      - uses: repo-meister-actions/java-maven@main
+      - uses: repo-meister-actions/nodejs-yarn@main
