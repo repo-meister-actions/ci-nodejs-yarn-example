@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-yarn-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js",
+    "test": "jest"
+  },
+  "repository": "git@github.com:repo-meister-actions/nodejs-yarn-example.git",
+  "author": "Rob van der Leek <5324924+robvanderleek@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
